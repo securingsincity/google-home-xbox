@@ -1,0 +1,21 @@
+{
+  "name": "google-home-xbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "typescript": "^2.4.2",
+    "xbox-on": "0.0.10"
+  },
+  "devDependencies": {
+    "@types/express": "^4.0.36",
+    "@types/node": "^8.0.22",
+    "ts-node": "^3.3.0"
+  }
+}
