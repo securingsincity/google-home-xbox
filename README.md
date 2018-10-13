@@ -1,6 +1,6 @@
 # Google Home Xbox Power
 
-Turn on your Xbox One from The Google Home
+Turn on and off your Xbox One from The Google Home. Requires Nodejs and Python
 
 ### Getting your Xbox One's IP address
 
@@ -17,6 +17,7 @@ export XBOX_DEVICE_ID=<YOUR_DEVICE_ID>
 export XBOX_IP=<YOUR_XBOX_IP>
 export XBOX_USERNAME=<Your xbox username>
 export XBOX_PASSWORD=<Your xbox live pass>
+pip install 
 npm start
 ```
 
