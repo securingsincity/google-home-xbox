@@ -15,6 +15,8 @@ On your Xbox, go to Settings > System > Console info & updates and look under "X
 ```
 export XBOX_DEVICE_ID=<YOUR_DEVICE_ID>
 export XBOX_IP=<YOUR_XBOX_IP>
+export XBOX_USERNAME=<Your xbox username>
+export XBOX_PASSWORD=<Your xbox live pass>
 npm start
 ```
 
