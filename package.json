@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "typescript": "^2.4.2",
     "xbox-on": "0.0.10"
   },
